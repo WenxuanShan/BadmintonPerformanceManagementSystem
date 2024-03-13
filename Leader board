@@ -1,0 +1,15 @@
+#Leader Board
+from tkinter import *
+import math
+from tkinter import messagebox
+
+master = Tk()
+
+master.title("Badminton Performance Management - Leader Board")
+master.geometry("500*500")
+master.configure(background = "light blue")
+master.resizable(False,False)
+
+
+
+master.mainloop()
